@@ -1,15 +1,16 @@
-# 这是标题
+# 自我介绍
 
-这是`一行代码`
+我叫雄，我的爱好是
+
+* 看书
+* 健身
+* 兴趣爱好广泛
+
+学过编程有 `java` `HTML` `CSS` `Javascript`
 
 ```javascript
-这是多行代码
+function one(){
+    console.log('hello world');
+}
+one()
 ```
-
-1. 第一项
-2. 第二项
-   
-* 新垣结衣
-* 石原里美
-  
-  
